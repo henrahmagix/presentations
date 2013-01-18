@@ -2,6 +2,10 @@
 
 A collection of my talks. Each talk is a public gist, collated here via submodules.
 
++ [Nice Front End Things][] - Thursday 17th January, 2013 @ [JSOxford](http://twitter.com/jsoxford)
+    + clone via ssh `git@gist.github.com:4557586.git`
+
+
 ## Cloning Gists
 
 [gist.github.com](http://gist.github.com) now gives `git clone` urls as `https` rather than `ssh`. This will require entering your GitHub username and password _every time you push_.
