@@ -2,7 +2,7 @@
 
 A collection of my talks. Each talk is a public gist, collated here via submodules.
 
-+ [Nice Front End Things][https://gist.github.com/4557586] - Thursday 17th January, 2013 @ [JSOxford](http://twitter.com/jsoxford)
++ [Nice Front End Things](https://gist.github.com/4557586) - Thursday 17th January, 2013 @ [JSOxford](http://twitter.com/jsoxford)
     + clone via ssh `git@gist.github.com:4557586.git`
 
 
