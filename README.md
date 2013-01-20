@@ -11,7 +11,7 @@ To present a talk, [use the _brilliant_ Gistdeck][Gistdeck].
 ### [Nice Front End Things][nice things] - [View][nice things view]
 
 Thursday 17th January, 2013 - [JSOxford][]  
-<input value="https://gist.github.com/4557586.git" size="36" type="text" spellcheck="false" class="url-field" style="padding: 5px; width: auto; vertical-align: middle;">
+Clone this talk: `https://gist.github.com/4557586.git`
 
 
 
