@@ -4,6 +4,3 @@
 [submodule "drafts"]
 	path = drafts
 	url = git@bitbucket.org:henrahmagix/presentation-drafts.git
-[submodule "test"]
-	path = test
-	url = git@gist.github.com:cc40643d37794a223d0d.git
