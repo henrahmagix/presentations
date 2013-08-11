@@ -10,8 +10,14 @@ To present a talk, [use the _brilliant_ Gistdeck][Gistdeck].
 
 ### [Nice Front End Things][nice things] - [View][nice things view]
 
-Thursday 17th January, 2013 - [JSOxford][]  
+Thursday 17th January, 2013 - [JSOxford][]
 Clone this talk: `https://gist.github.com/4557586.git`
+
+### [Using Gists For More][using gists], [OGN30][OGN30] - [View][using gists view]
+
+Wednesday 13th March, 2013 - [Oxford Geek Nights][OGN]
+Clone this talk: `https://gist.github.com/6206864.git`
+Audio available [here][OGN30 audio].
 
 
 
@@ -35,7 +41,11 @@ Version tags (`v1.1`) keep track of edits.
  [Gistdeck]: http://henrahmagix.github.com/gistdeck
  [nice things]: https://gist.github.com/4557586
  [nice things view]: http://gist.io/4557586
+ [using gists]: https://gist.github.com/henrahmagix/6206864
+ [using gists view]: http://gist.io/6206864
  [JSOxford]: http://twitter.com/jsoxford
+ [OGN]: http://oxford.geeknights.net
+ [OGN30]: http://oxford.geeknights.net/ogn30/
  [gist.github.com]: http://gist.github.com
  [GitHub Pages]: http://pages.github.com
  [nzoschke]: https://github.com/nzoschke
