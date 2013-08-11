@@ -7,3 +7,6 @@
 [submodule "building-slides-in-markdown"]
 	path = building-slides-in-markdown
 	url = git@gist.github.com:5233614.git
+[submodule "2013-03-13-ogn"]
+	path = 2013-03-13-ogn
+	url = git@gist.github.com:6206864.git
