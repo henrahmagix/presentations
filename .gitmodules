@@ -4,3 +4,6 @@
 [submodule "drafts"]
 	path = drafts
 	url = git@bitbucket.org:henrahmagix/presentation-drafts.git
+[submodule "building-slides-in-markdown"]
+	path = building-slides-in-markdown
+	url = git@gist.github.com:5233614.git
