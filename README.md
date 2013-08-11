@@ -34,8 +34,6 @@ I write in Markdown using Sublime Text 2, preview in a browser that creates inte
 
 ## Gistdeck issues
 
-<del>The issues Gistdeck currently has with [gist.github.com][] are fixed in my fork. Unfortunately, I cannot serve via `https` from [GitHub Pages][] (required by the gists page) so I am using `https://raw.github.com/user/repo/file`, which serves as the incorrect mime-type of `text/plain`. I will update when [nzoschke][] accepts [my](https://github.com/nzoschke/gistdeck/pull/15) [pull-requests](https://github.com/nzoschke/gistdeck/pull/16) and [Gistdeck][] is working again.</del>
-
 Gistdeck is currently working! However, if it breaks for you in any way, please [submit an issue to the repository][Gistdeck issues].
 
 
